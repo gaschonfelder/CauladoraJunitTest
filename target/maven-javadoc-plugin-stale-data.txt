@@ -1,0 +1,43 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'C:/Users/Gabriel/Documents/NetBeansProjects/Calc_JUnit/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Gabriel/Documents/NetBeansProjects/Calc_JUnit/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Calc_JUnit 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Calc_JUnit 1.0-SNAPSHOT API'
+Calculadora
+C:\Users\Gabriel\Documents\NetBeansProjects\Calc_JUnit\src\main\java = 1695678567198
+C:\Users\Gabriel\Documents\NetBeansProjects\Calc_JUnit\target\site\apidocs\allclasses-index.html = 1699310838929
+C:\Users\Gabriel\Documents\NetBeansProjects\Calc_JUnit\target\site\apidocs\allpackages-index.html = 1699310838933
+C:\Users\Gabriel\Documents\NetBeansProjects\Calc_JUnit\target\site\apidocs\copy.svg = 1699310838981
+C:\Users\Gabriel\Documents\NetBeansProjects\Calc_JUnit\target\site\apidocs\element-list = 1699310838866
+C:\Users\Gabriel\Documents\NetBeansProjects\Calc_JUnit\target\site\apidocs\help-doc.html = 1699310838974
+C:\Users\Gabriel\Documents\NetBeansProjects\Calc_JUnit\target\site\apidocs\index-all.html = 1699310838963
+C:\Users\Gabriel\Documents\NetBeansProjects\Calc_JUnit\target\site\apidocs\index.html = 1699310838967
+C:\Users\Gabriel\Documents\NetBeansProjects\Calc_JUnit\target\site\apidocs\jquery-ui.overrides.css = 1699310839025
+C:\Users\Gabriel\Documents\NetBeansProjects\Calc_JUnit\target\site\apidocs\member-search-index.js = 1699310838939
+C:\Users\Gabriel\Documents\NetBeansProjects\Calc_JUnit\target\site\apidocs\module-search-index.js = 1699310838935
+C:\Users\Gabriel\Documents\NetBeansProjects\Calc_JUnit\target\site\apidocs\overview-tree.html = 1699310838915
+C:\Users\Gabriel\Documents\NetBeansProjects\Calc_JUnit\target\site\apidocs\package-search-index.js = 1699310838936
+C:\Users\Gabriel\Documents\NetBeansProjects\Calc_JUnit\target\site\apidocs\script.js = 1699310838979
+C:\Users\Gabriel\Documents\NetBeansProjects\Calc_JUnit\target\site\apidocs\search.js = 1699310838985
+C:\Users\Gabriel\Documents\NetBeansProjects\Calc_JUnit\target\site\apidocs\stylesheet.css = 1699310838977
+C:\Users\Gabriel\Documents\NetBeansProjects\Calc_JUnit\target\site\apidocs\tag-search-index.js = 1699310838941
+C:\Users\Gabriel\Documents\NetBeansProjects\Calc_JUnit\target\site\apidocs\type-search-index.js = 1699310838938
